@@ -5,7 +5,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 I'm a **3rd year, 2nd semester** Software Engineering student
+- 🎓 I'm a **4th year** Software Engineering student
 - 💻 Passionate about full-stack web development & tech innovation
 - 💡 Curious learner exploring modern stacks and scalable software design
 - 🌱 Always sharpening my skills and learning from real-world projects
