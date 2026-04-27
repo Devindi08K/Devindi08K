@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Devindi</h1>
-<h3 align="center">💻 Full Stack Developer | 🎓 3rd Year SE Student | 💡 Tech Explorer</h3>
+<h3 align="center">💻 Full Stack Developer | 🎓 4th Year SE Student | 💡 Tech Explorer</h3>
 
 ---
 
