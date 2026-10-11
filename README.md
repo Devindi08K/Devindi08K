@@ -1,95 +1,122 @@
-<h1 align="center">Hi there 👋, I'm Devindi</h1>
-<h3 align="center">💻 Full Stack Developer | 🎓 4th Year SE Student | 💡 Tech Explorer</h3>
+# Hi there 👋, I'm Devindi!
+
+### 💻 Full Stack Developer | 🎓 4th Year Software Engineering Student | 🤖 Exploring AI in Software Engineering
+
+I'm a Software Engineering undergraduate passionate about building practical software solutions, developing full-stack applications, and exploring how AI can improve the software development process.
+
+- 🎓 Currently pursuing my BSc (Hons) in Information Technology at SLIIT, specializing in Software Engineering.
+- 💻 Experience working with modern frontend and backend technologies.
+- 🤖 Exploring multi-agent LLM systems and AI-assisted software engineering through my final-year research.
+- 🚀 Building projects that combine usability, functionality, and real-world problem-solving.
+- 🌱 Always learning, experimenting, and improving through hands-on development.
 
 ---
 
-### 👩‍💻 About Me
+### 🛠️ Tech Stack & Tools
 
-- 🎓 I'm a **4th year** Software Engineering student
-- 💻 Passionate about full-stack web development & tech innovation
-- 💡 Curious learner exploring modern stacks and scalable software design
-- 🌱 Always sharpening my skills and learning from real-world projects
+#### 🌐 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
----
-
-### 🚀 Tech Stack & Tools
-
-#### 🖥️ Frontend
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![React Router](https://img.shields.io/badge/-React%20Router-CA4245?style=flat-square&logo=react-router)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-EC5990?style=flat-square&logo=reacthookform)
-
----
-
-#### 🛠️ Backend & APIs
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
-![Nodemon](https://img.shields.io/badge/-Nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![OSGi Framework](https://img.shields.io/badge/-OSGi_Framework-FF6F00?style=flat-square)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens)
-![REST API](https://img.shields.io/badge/-REST%20API-6DB33F?style=flat-square)
-
----
+#### ⚙️ Backend Development & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 #### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
----
+#### 🤖 AI & Research
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLM_Applications-6E40C9?style=for-the-badge)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-374151?style=for-the-badge)
+
+#### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 #### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-121013?style=flat-square&logo=github)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache)
-![Apache Tomcat](https://img.shields.io/badge/-Tomcat-F8DC75?style=flat-square&logo=apache-tomcat)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+#### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ---
 
-#### 🧠 Languages
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r)
+### 🚀 Featured Projects
+
+#### 🤖 Multi-Agent LLM-Based Software Engineering Framework
+Final-year research project exploring how multiple AI agents can support early-phase software engineering, from requirements analysis and system design to UI generation and usability evaluation.
+
+- Investigates AI-assisted workflows for novice developers and junior software engineers.
+- Includes a UI/UX and usability evaluation agent using usability and accessibility criteria.
+- Explores coordinated multi-agent workflows for improving early software development activities.
+
+**Technologies:** Python, FastAPI, LangChain, LLMs, React, Tailwind CSS
+
+#### 💗 Blush Vows — Personalized Celebration Websites
+A website-template project focused on creating personalized digital experiences for anniversaries, birthdays, and special occasions.
+
+**Technologies:** React, Vite, Tailwind CSS, Framer Motion
+
+#### 🌴 Explore-SL — Sri Lanka Travel Platform
+A travel-focused web project designed to help users explore destinations and discover travel-related information across Sri Lanka.
+
+**Technologies:** React, Tailwind CSS, Node.js, Express.js, MongoDB
+
+#### 📱 Client Follow-Up — Flutter Application
+A mobile application concept for helping small businesses organize client requests, track outstanding items, manage due dates, and follow up on pending tasks.
+
+**Technologies:** Flutter, Dart
 
 ---
 
-#### 🖥️ IDEs & Design
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea)
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse-ide)
-![R Studio](https://img.shields.io/badge/-RStudio-75AADB?style=flat-square&logo=rstudio)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
-
----
-
-### 📈 GitHub Stats
+### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devindi08K&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devindi08K&layout=compact&theme=tokyonight" width="47%" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Devindi08K&show_icons=true&theme=tokyonight&hide_border=true" alt="Devindi's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devindi08K&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used programming languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Devindi08K&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ---
 
+### 📫 Let's Connect
 
+- 💼 **LinkedIn:** [Add your LinkedIn profile URL](https://www.linkedin.com/)
+- 🌐 **Portfolio:** [Add your portfolio URL](https://github.com/Devindi08K)
+- 📧 **Email:** Add your professional email address
+- 🐙 **GitHub:** [@Devindi08K](https://github.com/Devindi08K)
+
+---
 
 <p align="center">
-  ✨ “Turning ideas into code and code into impact.”
+  ✨ <i>Building, learning, and turning ideas into practical software solutions.</i>
 </p>
-
