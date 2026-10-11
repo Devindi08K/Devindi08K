@@ -24,13 +24,17 @@ I'm a Software Engineering undergraduate passionate about building practical sof
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 
 #### ⚙️ Backend Development & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
 
 #### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -56,42 +60,21 @@ I'm a Software Engineering undergraduate passionate about building practical sof
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
 
 #### 💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
----
-
-### 🚀 Featured Projects
-
-#### 🤖 Multi-Agent LLM-Based Software Engineering Framework
-Final-year research project exploring how multiple AI agents can support early-phase software engineering, from requirements analysis and system design to UI generation and usability evaluation.
-
-- Investigates AI-assisted workflows for novice developers and junior software engineers.
-- Includes a UI/UX and usability evaluation agent using usability and accessibility criteria.
-- Explores coordinated multi-agent workflows for improving early software development activities.
-
-**Technologies:** Python, FastAPI, LangChain, LLMs, React, Tailwind CSS
-
-#### 💗 Blush Vows — Personalized Celebration Websites
-A website-template project focused on creating personalized digital experiences for anniversaries, birthdays, and special occasions.
-
-**Technologies:** React, Vite, Tailwind CSS, Framer Motion
-
-#### 🌴 Explore-SL — Sri Lanka Travel Platform
-A travel-focused web project designed to help users explore destinations and discover travel-related information across Sri Lanka.
-
-**Technologies:** React, Tailwind CSS, Node.js, Express.js, MongoDB
-
-#### 📱 Client Follow-Up — Flutter Application
-A mobile application concept for helping small businesses organize client requests, track outstanding items, manage due dates, and follow up on pending tasks.
-
-**Technologies:** Flutter, Dart
+#### 🖥️ IDEs & Design
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 
 ---
 
@@ -105,15 +88,6 @@ A mobile application concept for helping small businesses organize client reques
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Devindi08K&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
-
----
-
-### 📫 Let's Connect
-
-- 💼 **LinkedIn:** [Add your LinkedIn profile URL](https://www.linkedin.com/)
-- 🌐 **Portfolio:** [Add your portfolio URL](https://github.com/Devindi08K)
-- 📧 **Email:** Add your professional email address
-- 🐙 **GitHub:** [@Devindi08K](https://github.com/Devindi08K)
 
 ---
 
